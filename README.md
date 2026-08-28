@@ -1,6 +1,7 @@
 # race-cli
 
 [![PyPI version](https://img.shields.io/pypi/v/race-cli.svg)](https://pypi.org/project/race-cli/)
+
 Race CLI is a powerful tool to measure executive efficiency!
 
 # Installation
