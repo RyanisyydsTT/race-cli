@@ -21,10 +21,8 @@ pip install -e .
 ## Single-Run Mode
 ```bash
 race 'echo hello' 'echo bye'
+```
 
-```
-```
-```
 ## Multi-Run Mode
 ```bash
 race 'echo hello' 'echo bye' --runs 10
@@ -36,5 +34,4 @@ This repository uses MIT LICENSE.
 
 # Contributing
 Feel free to open a pull request, thank you!
-```
-```
+
