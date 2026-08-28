@@ -122,4 +122,5 @@ def benchmark(cmd):
 if __name__ == '__main__':
     race()
 
-
+def main():
+    race()
