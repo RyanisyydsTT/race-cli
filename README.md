@@ -29,6 +29,11 @@ race 'echo hello' 'echo bye' --runs 10
 ```
 > This Mode will display execute time elapsed in min/max/avg format. Compared using average value of them.
 
+# Screenshots
+
+<img src="https://github.com/RyanisyydsTT/race-cli/blob/main/images/ss1.png?raw=true" alt="Single run mode" width="300">
+<img src="https://github.com/RyanisyydsTT/race-cli/blob/main/images/ss.png?raw=true" alt="Multi run mode" width="300">
+
 # LICENSE
 This repository uses MIT LICENSE.
 
